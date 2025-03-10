@@ -1,0 +1,18 @@
+body{
+  background-color: #ecf6f7;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: #fe9900;
+  border:5px solid black;
+}
+table td {
+  padding: 0.5rem;
+  border: 5px solid;
+}
+table th {
+  padding: 0.5rem;
+  border: 5px solid;
+}
